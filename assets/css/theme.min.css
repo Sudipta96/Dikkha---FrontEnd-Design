@@ -25750,7 +25750,7 @@ label.form-control {
 
 .video-bg {
     position: relative;
-    min-height: 75vh
+    min-height: 65vh;
 }
 
 .video-bg-content {
@@ -25778,11 +25778,11 @@ label.form-control {
     }
 }
 
-@media (max-width:767.98px) {
+/* @media (max-width:767.98px) {
     .video-bg-content {
         display: none
     }
-}
+} */
 
 .hs-video-bg-video iframe,
 .hs-video-bg-video video {
