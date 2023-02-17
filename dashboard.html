@@ -52,6 +52,21 @@
             font-weight: 600;
        }
 
+       @media (max-width:480px) {
+        .chart-container{
+            margin-left:0;
+            margin-right: 0;
+            padding-left: 0;
+            padding-right: 0;
+        }
+        .chart-container .card .card-body{
+            padding-inline-start: 0.25rem;
+            padding-inline-end: 0.25rem;
+        }
+        .chart-container .card .card-body .card-title{
+            text-align: center;
+        }
+    }
     </style>
 </head>
 
@@ -333,7 +348,7 @@
         <!-- End Hero -->
 
         <!-- Card Grid -->
-        <div class="container content-space-b-2 content-space-b-lg-3">
+        <div class="container chart-container content-space-b-2 content-space-b-lg-3">
             <div class="row">
                 <div class="col-12 col-md-10">
                     <div class="card">
