@@ -1,0 +1,207 @@
+--------------------------Index + About Us---------------------------
+
+Preamble 
+ -- image
+ -- tagline
+ -- paragraph
+
+What we are
+ -- image
+ -- parragraph
+
+What We Do:
+ -- tagline
+ -- parragraph
+ -- image
+
+Our vision:
+ -- image1, image2, image3
+
+Our Mision:  --missing doc
+  -- tagline
+  -- paragraph
+  -- image
+
+Our Target Audience - 1 line - how to arrange
+  -- Term -- character
+
+Our Aim & Objectives
+  -- svg icon
+  -- tagline
+  -- paragraph - (2/3 lines)
+
+Our Strategies
+  -- svg icon
+  -- tagline
+  -- points 
+  Or
+  -- image
+  -- text(points) -- rich text editor
+
+Managing Body:
+  -- tagline
+  -- member - fk
+
+Member: 4
+    -- name
+    -- description
+    -- designation 
+    -- image
+
+--------------------------Index + About Us---------------------------
+-------------------------- Resource Persons-ok ----------------------
+Full Time Instructor:
+  -- name
+  -- dikkha_designation
+  -- image
+  -- description
+  -- company_or_university_designation
+
+Guest Teacher
+  -- name
+  -- dikkha_designation
+  -- image
+  -- description
+  -- company_or_university_designation
+-------------------------- Resource Persons ----------------------
+
+--------------------- Skills -ok --------------------------------------
+Soft skill:
+   -- course
+
+Course
+-- Course name
+-- skill-choice -- soft skill, computer skill, mental health, free 
+
+course
+-- number of lessions
+-- duration - (hrs/days/weeks)
+-- small_description(2/3 lines)
+-- what you'll learn (RTE)
+-- Description (RTE)
+-- preview video
+-- certificate_included ? Yes/No (Bool)
+
+Course Content -- future redesign
+-- course name -- fk
+-- chapter name -- mptt
+
+Free Resources
+ -- skill name/course name
+ -- text
+ -- type -- link/downloadable
+ -- file
+
+--------------------- Skills -------------------------------------
+--------------------- Student Forum-ok ------------------------------
+Student Feedback:
+  -- name
+  -- email
+  -- image  -- account profile image
+  -- review
+  -- rating
+  -- university name  -- may be fk
+  -- will be displayed? (bool)
+  -- verified? (bool)
+
+Student Success Story
+  -- Student name -- fk-account
+  -- image -- thumbnail -- listview image
+  -- title description 
+  -- company name
+
+details:
+  -- tagline
+  -- description (RTE-Blog)
+  -- student name  -- acc
+  -- student email -- acc
+  -- student bio/info -- may be fk - from profile bio
+  
+--------------------- ./Student Forum ----------------------------
+--------------------- NewsRoom ---------------------------------
+--- title 
+--- image_thumbnail
+--- title description - (30 word)
+--- long description -- T
+--- is featured_content? (bool)
+--- type  -- link/blog
+--- link
+--- created_date
+
+author and share info?
+
+--------------------------- ./NewsRoom -----------------------------
+------------------ Contact -ok ------------------------------
+
+-- full name
+-- email address
+-- details 
+-- is_checked?
+
+------------------- ./Contact ------------------------------
+
+------------------- DashBoard --------------------
+Registration info
+ -- year  -- current year
+ -- month
+ -- no of students registered
+
+Admission Info:
+ -- year  -- current year
+ -- month
+ -- no of admission in all course
+
+----------------- DashBoard ------------------------------
+----------------- Account Profile -------------------- 
+Signup:
+ -- First Name
+ -- Last Name
+ -- user name
+ -- email
+ -- password
+ -- image
+ -- bio
+ -- university name
+ -- institution name
+ -- mobile number
+
+Address Table
+ -- account -- fk
+
+----------------------------------------
+      CV
+   -- name
+   -- address
+   -- phone number
+   
+   -- school
+         -- name
+         -- ssc
+         -- result
+         -- out of
+   -- college
+         -- name
+         -- degree name
+         -- result
+         -- out of
+   -- university
+         -- name
+         -- degree name
+         -- result
+         -- cgpa/division
+
+          
+ 
+ 
+----------------- ./Account Profile --------------------
+
+
+
+
+
+
+
+
+   
+
+  

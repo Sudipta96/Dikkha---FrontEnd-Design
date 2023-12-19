@@ -45,86 +45,35 @@
         footer .logo a{
             color: #fff;
             }
+        
+        .hero{
+          position: relative;
+          min-width: 100vh;
+          min-height: 100vh;
+          /* max-width: 100vh; */
+          /* max-height: 100vh; */
+        }
+        .hero > .hero-context {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          background-image: linear-gradient(
+          rgba(0,0,0,1),
+          rgba(0,0,0,.7),
+          rgba(0,0,0,.4),
+          rgba(0,0,0,0));
+        }
 
     </style>
 </head>
 
 <body>
     <!-- ========== HEADER ========== -->
-    <header id="header" class="navbar navbar-expand-lg navbar-end navbar-absolute-top navbar-light navbar-show-hide" data-hs-header-options='{
+    <header id="header" class="navbar navbar-expand-lg navbar-end navbar-absolute-top navbar-light pt-5 navbar-show-hide" data-hs-header-options='{
       "fixMoment": 800,
       "fixEffect": "slide"
     }'>
-  <!-- Topbar -->
-  <div class="container navbar-topbar">
-      <nav class="js-mega-menu navbar-nav-wrap">
-          <!-- Toggler -->
-          <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#topbarNavDropdown" aria-controls="topbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-              <span class="d-flex justify-content-between align-items-center small">
-                  <span class="navbar-toggler-text">Topbar</span>
-  
-                  <span class="navbar-toggler-default">
-                  <i class="bi-chevron-down ms-2"></i>
-                  </span>
-                  <span class="navbar-toggler-toggled">
-                  <i class="bi-chevron-up ms-2"></i>
-                  </span>
-              </span>
-          </button>
-          <!-- End Toggler -->
-  
-          <div id="topbarNavDropdown" class="navbar-nav-wrap-collapse collapse navbar-collapse navbar-topbar-collapse">
-              <div class="navbar-toggler-wrapper">
-                  <div class="navbar-topbar-toggler d-flex justify-content-between align-items-center">
-                      <span class="navbar-toggler-text small">Topbar</span>
-  
-                      <!-- Toggler -->
-                      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#topbarNavDropdown" aria-controls="topbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                          <i class="bi-x"></i>
-                      </button>
-                      <!-- End Toggler -->
-                  </div>
-              </div>
-  
-              <div class="container ps-0 py-2 text-light" style="font-size: 0.85rem;">
-                  <div class="row">
-                      <div class="col">
-                          <div class="left float-start d-flex">
-                              <div class="call d-flex">
-                                  <i class="bi bi-telephone mx-1"></i>
-                                  <span>+8801757825574</span>
-                              </div>
-  
-                              <div class="email d-flex">
-                                      <a href="mailto:info@dikkhabd.com" class="d-block d-sm-none text-light ms-2">
-                                          <i class="bi bi-envelope mx-1"></i>
-                                      </a>
-                                      <a href="mailto:info@dikkhabd.com" class="d-none d-sm-block text-light ms-5">
-                                      <i class="bi bi-envelope mx-1"></i>
-                                      <span>info@dikkhabd.com</span>
-                                      </a>
-                              </div>
-                          </div>
-                      </div>
-                      <div class="col text-light">
-                          <div class="right float-end d-flex">
-                              <div class="login d-flex">
-                                <!-- <i class="ri-check-double-line"></i> -->
-                                <i class="bi bi-person mx-1"></i>
-                                <span>
-                                 <a href="" class="text-light">Login</a> <span> | </span>
-                                 <a href="./page-signup-simple.html" class="text-light">Register</a>
-                              </div>
-                           </div>   
-                      </div>
-                  </div>
-              </div>
-  
-          </div>
-      </nav>
-  </div>
-  <!-- End Topbar -->
-  
+ 
   <div class="container">
       <nav class="js-mega-menu navbar-nav-wrap">
           <!-- Default Logo -->
@@ -318,12 +267,15 @@
     <!-- ========== MAIN CONTENT ========== -->
     <main id="content" role="main">
         <!-- Hero -->
-        <div class="bg-img-start gradient-x-overlay-sm-dark" style="background-image: url(./assets/img/1920x1080/img6.jpg);">
-            <div class="d-md-flex content-space-3 content-space-md-0">
-            <div class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
-                <h1 class="display-1 text-primary">Alabaster.</h1>
-                <p class="lead text-white">An exploration of creativity, beauty, and faith.</p>
-            </div>
+        <div class="bg-img-start gradient-x-overlay-sm-dark hero" style="background-image: url(./assets/img/1920x1080/img6.jpg);">
+            <div class="d-md-flex content-space-3 content-space-md-0 hero-context">
+              <div class="container d-md-flex justify-content-md-center align-items-md-center flex-md-column min-vh-md-100 text-center">
+                <div class="w-lg-50 mt-3">
+                  <h1 class="display-1 text-primary">Soft Skill.</h1>
+                  <p class="lead text-white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, accusantium?</p>
+                  <a class="btn btn-primary btn-transition" href="./index3.html">Read article <i class="bi-chevron-right small ms-1"></i></a>
+                </div>
+              </div>
             </div>
         </div>
         <!-- End Hero -->

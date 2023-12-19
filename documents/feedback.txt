@@ -1,0 +1,84 @@
+
+1.
+About us
+  - Preamble
+  - what we are
+  - what we do
+  - Our vision
+  - Our Mission
+  - Our Target Audience
+  - Our Aim & Objectives
+  - Our Strategies
+
+  - Hero section - slider and image
+  - logo white color
+  -- tagline boro ta, underline dorkar nai
+
+  -- course card e kono price thakbe na
+  -- hover colour
+
+  -- course overview -- kono author thakbe nae 
+  -- course card e buy option thakbe na, price thakbe na
+  
+  -- koyta chapter, materials included, 
+     hours
+  -- managing body about us er majhe thakbe
+  -- full time instructor hero section
+  -- instructor e rating lagbe na
+  -- view more thakbe
+  -- social connection thakbe na
+  -- guest teacher choto image
+
+  -- course er under e thakbe - soft skill na
+  -- newsletter
+         -- current event
+         -- upcoming events
+         -- gallery
+  -- contact us
+       -- company info
+               -- mobile number,social media links
+  
+  -- dashboard
+        -- no of students in university
+       tabs - summery, university, company
+       university name - no of students enrolled 
+       company - company name, job placement
+
+      summery - current dashboard
+ 
+ Sign up Page: 
+    -- name
+    -- fname, lname
+    -- email
+    -- uni name, kon year student, major subject
+    -- contact number,
+    -- password,
+    -- gender
+ 
+ Security: 
+    -- national id card info 
+    -- upload and save
+
+ 
+   Student Admission:
+    -- voucher id, voucher date,
+    -- guardian contact,
+    -- account profile image
+    -- father name, mother name
+    -- national id
+    -- student name,
+    -- email
+
+   --- contact info is not necessay in every page 
+    
+    -- communication skill
+    -- mental health
+
+
+
+
+
+
+
+
+  

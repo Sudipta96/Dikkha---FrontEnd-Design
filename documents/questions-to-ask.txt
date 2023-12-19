@@ -1,0 +1,96 @@
+85% of final look.
+
+Q1. Choice of landing page/hero section.
+    show available hero section
+    * do you like logo? any other choice of layout?
+    * choice of navbar menu color? active or all active?
+    
+Q2. Any feedback of index page.
+    * show landing pages.
+    * Curve or simple (yes/No)
+    * Any color Preference.
+    * explain tagline/punchline (yes/no)
+    * what we are layout
+    * Aim and Objectives layout
+    * Our Purpose content
+
+Q3. Skill section:
+    * want which type of hero section?
+    * newsroom type or with image?
+    * choice of card design(within 3)?
+    Course Overview:
+    * Want author? - detail - extra page - need to change bg-image
+    * What preview video?
+    * what rating and review? -- extra cost
+    Free Resources:
+    * Is layout ok?
+
+Q4. Resouces Persons:
+    * is layout ok?
+    * In hero section png image would be good
+    * need to change image styling-shape
+    Full Time Instructor
+    * hero section layout can be added in landing page
+    * Which layout? view more or without btn?
+    * modal display is ok or not?
+    Guest Lecturer:
+    * which layout? 1 or 2
+    * want social media profile link?
+    Student Feedback Page:
+    * Feedback page bg-color is ok?
+      any color preference?
+    * feedback form input requirements
+    Student Success Stories
+    * hero section ok?
+    * success story blog or video?
+    * need single success story page?
+    * success story company name?
+    Student success story
+    * Want a Headline?
+    * Want student description?
+    * want quote?
+
+Q5. Newsroom
+    * type of news? link or article
+    * want tag?
+    * want search bar?
+    Single news
+    * want share option? --extra charge.
+    * want newsletter?   -- extra cost may apply
+    * need author info?
+
+Q6. Contact:
+    * want links?
+    * specific input names in contact form
+
+Q7. DashBoard
+    * do you like the layout?
+      any changes required?
+
+Q8. Account:
+    Sign up page:
+    * specific input page for signup page?
+    * want social login --extra charge
+    Sign In page:
+    * display login page
+    * want two factor authentication? --extra charge
+
+Q9. CV/Resume:
+    * what are the topics should cv cover?
+    
+
+
+
+    
+    
+
+
+
+
+   
+
+     
+
+
+
+    
